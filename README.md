@@ -13,3 +13,17 @@ The company wants to know:
 * How well those variables describe the bike demands
 
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
+
+## Business Goal
+
+You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
+
+## Observations
+
+* Demand for rental bikes has increased from 2018 to 2019
+* Weather plays a critical role in renting bikes, mostly clear weather is ideal for renting bikes
+* Thursday is a preferred working day to rent a bike
+* Fall season is most preferred to rent a bike
+* An increase in humidity has a negative effect on demand for renting bikes
+* Whereas an increase in temperature has a positive effect on demand for renting bikes
